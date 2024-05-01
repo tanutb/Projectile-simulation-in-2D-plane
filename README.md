@@ -1,2 +1,6 @@
-# projectile
-Run <b>main.py</b> to start the program
+# Bacis Projectile Simulation in 2D plane
+using tools **pygame**
+```
+python main.py
+```
+to start the program
